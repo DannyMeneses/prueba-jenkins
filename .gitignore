@@ -1,4 +1,4 @@
 *.db
 secrets.js
-credenciales_correo.py
+credenciales_correo.cpython-311.pyc
 __pycache__/
